@@ -6,7 +6,7 @@ O tema escolhido é o **mercado de trabalho na área de dados**. Um assunto que,
 
 ---
 
-## 🧩 1. Dissertação sobre o Problema
+## 1. Dissertação sobre o Problema
 
 Durante minha transição de carreira para a área de Análise de Dados, notei uma dificuldade muito comum entre iniciantes: saber **quais habilidades realmente importam** para conseguir uma vaga.
 
@@ -151,4 +151,4 @@ Esse trabalho representa meu **primeiro passo oficial na área de dados**, e esp
 **Pedro Loiola**  
 📍 Palmas – TO  
 🎯 Em transição de carreira para Análise de Dados  
-🔗 Adicionar LinkedIn
+🔗 www.linkedin.com/in/pedro-loiola-246938309
