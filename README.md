@@ -117,9 +117,7 @@ O dashboard foi construído no **Looker Studio**, com gráficos organizados por 
 - Cargos mais ofertados  
 - Hard skills mais pedidas  
 - Soft skills mais mencionadas  
-- Empresas que mais contratam  
-- Tabela filtrável  
-- Comparação entre fontes  
+- Empresas que mais contratam   
 
 **Dashboard completo:**  
 https://lookerstudio.google.com/reporting/36dc484a-ee74-4caa-b858-1bfd3724ac66
