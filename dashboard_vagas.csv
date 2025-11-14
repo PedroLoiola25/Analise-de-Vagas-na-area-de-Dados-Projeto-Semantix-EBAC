@@ -1,0 +1,49 @@
+categoria,item,quantidade
+Cargo,data analyst,404
+Cargo,data scientist,352
+Cargo,data engineer,323
+Cargo,senior data scientist,93
+Cargo,machine learning engineer,68
+Cargo,senior data analyst,59
+Cargo,senior data engineer,50
+Cargo,big data engineer,43
+Cargo,business intelligence analyst,43
+Cargo,"data scientist, product analytics",31
+Hard Skill,python,2769
+Hard Skill,sql,2645
+Hard Skill,machine learning,1749
+Hard Skill,statistics,1592
+Hard Skill,r,1524
+Hard Skill,data analysis,1224
+Hard Skill,spark,1032
+Hard Skill,tableau,949
+Hard Skill,excel,880
+Hard Skill,aws,825
+Soft Skill,communication,2903
+Soft Skill,leadership,1547
+Soft Skill,collaboration,1429
+Soft Skill,problem solving,1126
+Soft Skill,creativity,1060
+Soft Skill,attention to detail,965
+Soft Skill,teamwork,507
+Soft Skill,adaptability,406
+Soft Skill,critical thinking,285
+Soft Skill,time management,266
+Empresa,Meta,70
+Empresa,"Apple
+4.1",60
+Empresa,"IBM
+3.7",57
+Empresa,"Amazon
+3.9",47
+Empresa,Netflix,33
+Empresa,"Staffigo Technical Services, LLC
+5.0",28
+Empresa,"Facebook
+4.5",25
+Empresa,"Diverse Lynx
+3.9",25
+Empresa,"Solekai Systems Corp
+4.2",24
+Empresa,"Southwest Research Institute
+4.1",23
